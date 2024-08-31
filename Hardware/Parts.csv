@@ -1,0 +1,24 @@
+﻿QTY,Name,Digikey Part,Manufacturer Part,Desc,Price/comments
+,,,,,
+1,IC1,497-STM32L412K8T6-ND,STM32L412K8T6,IC MCU 32BIT 64KB FLASH 32LQFP,Was STM32L412KBT6 has 128KB flash
+,,,,,
+2,R1-2,RMCF0805FT10K0CT-ND,RMCF0805FT10K0,RES 10K OHM 1% 1/8W 0805,
+1,R3,RMCF0805FT249RCT-ND,RMCF0805FT249R,RES 249 OHM 1% 1/8W 0805,
+,,,,,
+6,C3-5,311-1140-1-ND,CC0805KRX7R9BB104,CAP CER 0.1UF 50V X7R 0805,
+2,C1-2,1276-1096-1-ND,CL21A106KOQNNNE,CAP CER 10UF 16V X5R 0805,
+,,,,,
+2,,A32918-ND,5-535541-1,TE Connectivity AMP Connectors,For LED Matrix. 0.265 height more expensive for this $1.16. S7036-ND is $0.37 but .335 height
+,,S1211EC-40-ND,PRPC040SFAN-RC,CONN HEADER VERT 40POS 2.54MM,Mates with above. Gold plated. Cut post length to fit
+,,,,,
+1,H1,S9169-ND,SBH11-PBPC-D05-ST-BK,CONN HEADER 10POS 2.54MM,
+1,SW0,CKN9565-ND,OS102011MS2QN1, SWITCH SLIDE SPDT 100MA 12V,"Need non-shorting (BBM) end in N1 rather than S1. Can substitute with ""C"" on the end (high temp resin)"
+1,PB0-7,CKN10880CT-ND,PTS645SL43SMTR92 LFS,SWITCH TACTILE SPST-NO 0.05A 12V,
+1,BAT1,BK-1280-PC6-ND,BK-1280-PC6,Battery Holder (Open) AA 3 Cell PC Pin,
+,,,,,
+1,LED Matrix,https://www.aliexpress.us/item/2251832466712520.html?spm=a2g0o.order_list.order_list_main.32.57631802u8VLss&gatewayAdapt=glo2usa,,,
+,,"Many similar boards are available and will work if they are WS2812B LEDs. To fit PCB, look for those with three 0.1 spaced holes near each corner which are used for pwr, gnd, and io",,,
+,,,,,
+,,,,,
+3,HD107S LEDS,50-1000pcs HD107S(Similar APA102) LED Chip 5050 2020 RGB Intelligent Control Integrated LED Light Source APA107S Chip 26+kHz PWM - AliExpress 39,,,
+,,Can substitute SK9822,,,
